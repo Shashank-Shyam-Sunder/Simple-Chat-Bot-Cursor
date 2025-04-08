@@ -1,4 +1,9 @@
-﻿---
+---
+description: 
+globs: 
+alwaysApply: false
+---
+---
 description: "Requires every function to have a specific comment indicating it was defined by the learner"
 globs: ["*.py"]
 alwaysApply: true
